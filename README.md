@@ -28,11 +28,14 @@ Supported platforms: Linux, Windows, OS X, Raspberry Pi, and ODROID
 
 **Guides**
 * __[Contributing Guidelines](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master//.github/CONTRIBUTING.md)__
-
 **External Links**
 * __[Homepage DEV]()__
 * __[Forums DEV]()__
 * __[Plugin Repository](http://forums.imagicalmine.net/plugins)__
+     Your ImagicalMine Server needs Visual Studio C++ Redistributable 2015.
+     Set it up 
+*__[here](https://www.microsoft.com/en-us/download/details.aspx?id=48145)__
+*__[Extra Files- including suggested plugins](https://github.com/Inactive-to-Reactive/IM-Windowsx86-PHP7-extra-files)__
 
 ## Acknowledgements
 
