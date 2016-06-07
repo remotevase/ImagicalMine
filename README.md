@@ -36,6 +36,7 @@ Supported platforms: Linux, Windows, OS X, Raspberry Pi, and ODROID
 
 ## Acknowledgements
 
+- ImagicalMine was originally devised by [ImagicalCorp](https://github.com/ImagicalCorp) and was authored in the [old github repository](https://github.com/ImagicalCorp/ImagicalMine).
 - This is a third-party build of [PocketMine-MP](https://github.com/PocketMine/PocketMine-MP). ImagicalMine is in no way affiliated with [PocketMine-MP](https://github.com/PocketMine/PocketMine-MP).
 - The original code in ImagicalMine is from [PocketMine-MP](https://github.com/PocketMine/PocketMine-MP). All original code structure and base was written by the [PocketMine Team](https://github.com/PocketMine).
 - ImagicalMine's code sources include from [Katana](https://github.com/Hydreon/Katana), [Steadfast2](https://github.com/Hydreon/Steadfast2), [PocketMine-0.13.x](https://github.com/HmyTeamOrganization/PocketMine-0.13.x), [Genisys](https://github.com/iTXTech/Genisys) & [ClearSky](https://github.com/ClearSkyTeam/ClearSky).
