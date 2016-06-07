@@ -18,6 +18,11 @@ before_script:
 # PROJECT BUILDING WITH DEVTOOLS
 script:
 - php extra/TravisTest.php
+- bash ./scripts/deploy-to-gh-pages.sh
+env:
+  global:
+    - GITHUB_REPO: "Inactive-to-Reactive/ImagicalMine"
+    - secure: "oZF0YoaVySCn3vKt5RSmg6BAAbW+FX7up+fP+qDTHdEP1xzXDC+uOBoQYzezZsK7rT1GJAuvjIHRapCG2lrN62nyZxXJU2iKUYPIqEMyTpzpnHooEjKSnBbESEFC3ol+P3jZwYIoytua80OsXDzrAArKAvLiq1xkyUQUPEQOmDDObpu9MAEZJ51jZqPaYlHbKEcPYaXJNJZH9f6zeRywhBmKo1rf2OGnCc/BMcMfx9LIjnBL3JFRG6o8gE4ReMmtxewB+zqeEruk5XA49uSgyxyuJjl487AV4Gqk1FXgckQ8gin5ZIeSn381zA8PPzJy3LdAGiA925kQqNZJz1jS0+hcVOKYWf7UfMoiaOYTWjbb+OQZ93Nfj6CXIsxXVrELhU87u3R428jrmP9MJ1toGKvq5g1R0vjMmJZ3JeR2qXsyOuQ6gFqy6h7t2o87vZ4b/zOgJ4U62jMgCfRUN8Q1xqqx1lNKUyQKEU+I1BV/caxIWjWc4jQk4ia+oYszB475zl9ywBqYe04fXTV3qzXEcwAemXhi8AJdej/GdIHN4Nfj+koNJ9VFUaJkP66Y3Xdezg6J9XhJrRjqzjsqXHwaYB1G5YPIMUCPW+lnlk4hw6mBLLesKeb1J25qdEu04nVwezXSuLgKCMldBjT47oq1EDm8OHGvrS0/RsjS/8lC/VE="
 
 # UPLOADING TO RELEASES WEBSITE
 after_success:
