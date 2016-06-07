@@ -1,4 +1,4 @@
-# ![ImagicalMine](https://raw.githubusercontent.com/Inactive-to-Reactive/ImagicalMine/master/extra/ImagicalMine-Logo.png)
+# ![ImagicalMine](http://i.imgur.com/emmkLHg.jpg)
 
 [![Travis Build](https://travis-ci.org/Inactive-to-Reactive/ImagicalMine.svg)](https://travis-ci.org/Inactive-to-Reactive/ImagicalMine) <br>
  __[Download Latest Phar File (Direct Link)](https://Inactive-to-Reactive.github.io/ImagicalMine/service-download/ImagicalMine.phar)__
