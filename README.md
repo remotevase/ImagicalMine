@@ -54,5 +54,5 @@ __[Back to QuickLinks](https://github.com/Inactive-to-Reactive/ImagicalMine/blob
 - The weather system was written by @matcracker.
 - The hunger system is from Katana, but most of them was rewritten by @thebigsmileXD.
 - The redstone system was written by @aodzip.
-- The potion class was written by @thebigsmileXD.
+- The potion class was written by @thebigsmileXD. <br>
 __[Back to QuickLinks](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#quick-links-instead-of-scrolling-click-these)__
