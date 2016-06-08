@@ -1,8 +1,8 @@
 #!/bin/bash
-rm -rf out || exit 0;
-mkdir out; 
+rm -rf extra || exit 0;
+mkdir extra; 
 node build.js
-( cd service-download
+( cd extra
  git init
  git config user.name "Travis-CI"
  git config user.email "travis@nodemeatspace.com"
