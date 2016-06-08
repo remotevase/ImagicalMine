@@ -20,8 +20,8 @@ Below is the ImagicalMine demo server details, you can see what features Imagica
 
 ## Installation
 
+[Installing Introductions](https://github.com/Inactive-to-Reactive/ImagicalMine/wiki/Installation)<br>
 **Self-installation:**<br>
-NO DOCUMENTATION AVAILABLE YET.<br>
 Supported platforms: Linux, Windows, OS X, Raspberry Pi, and ODROID
 
 ## Resources
