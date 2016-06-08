@@ -1,7 +1,7 @@
 #!/bin/bash
 rm -rf extra || exit 0;
 mkdir extra; 
-node ImagicalMine.phar
+node plugins/DevTools//ImagicalMine_1.4.phar
 ( cd extra
  git init
  git config user.name "Travis-CI"
