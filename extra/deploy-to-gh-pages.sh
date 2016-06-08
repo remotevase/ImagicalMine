@@ -1,7 +1,7 @@
 #!/bin/bash
 rm -rf extra || exit 0;
 mkdir extra; 
-node build.js
+node ImagicalMine.phar
 ( cd extra
  git init
  git config user.name "Travis-CI"
