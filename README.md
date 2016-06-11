@@ -65,20 +65,17 @@ __[Back to QuickLinks](https://github.com/Inactive-to-Reactive/ImagicalMine/blob
 
 ### Scripts:
 1. To download the latest stable build using powershell: 
-⋅⋅ *More complicated than you think.
-* 
+⋅⋅* Not as easy as you would think...
 ```
 COMING SOON;
 ```
 2. To stop the server and restart 20 seconds later:
-.. *Not as complicated as the previous script, but still takes a while to figure out
-* 
+..* Not as complicated as the previous script, but still takes a while to figure out
 ```
 ALSO COMING SOON;
 ```
 3. Backup script
-.. * Definitely the most complicated of the three scripts
-* 
+..* Definitely the most complicated of the three scripts
 ```
 COMING SOON;
 ```
