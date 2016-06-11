@@ -11,7 +11,7 @@
 __[Demo Server](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#demo-server)__ <br>
 __[Installation](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#installation)__ <br>
 __[Resources](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#resources)__ <br>
-__[Windows Powershell Scripts](https://github.com/Inacittve-to-Reactive/ImagicalMine/blob/master/README.md#windows-powershell-scripts)__ <br>
+__[Windows Powershell Scripts](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#windows-powershell-scripts)__ <br>
 __[Acknowledgements](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#acknowledgements)__ <br>
 
 
@@ -66,22 +66,24 @@ __[Back to QuickLinks](https://github.com/Inactive-to-Reactive/ImagicalMine/blob
 ### Scripts:
 1. To download the latest stable build using powershell: 
 ⋅⋅ *More complicated than you think.
-* ```
+* 
+```
 COMING SOON;
-``` <br> 
+```
 2. To stop the server and restart 20 seconds later:
 .. *Not as complicated as the previous script, but still takes a while to figure out
-* ```
+* 
+```
 ALSO COMING SOON;
-``` <br>
+```
 3. Backup script
 .. * Definitely the most complicated of the three scripts
-* ```
+* 
+```
 COMING SOON;
-``` <br>
-
+```
 All credit goes to @remotevase AKA remote_vase and his father for making these scripts together
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Acknowledgements
 
 - ImagicalMine was originally devised by [ImagicalCorp](https://github.com/ImagicalCorp) and was authored in the [old github repository](https://github.com/ImagicalCorp/ImagicalMine).
