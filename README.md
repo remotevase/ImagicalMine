@@ -2,7 +2,7 @@
  Full size img: http://i.imgur.com/emmkLHg.jpg
 
 [![Travis Build](https://travis-ci.org/Inactive-to-Reactive/ImagicalMine.svg)](https://travis-ci.org/Inactive-to-Reactive/ImagicalMine) <br>
- __[Download Latest Phar File (Direct Link)](https://Inactive-to-Reactive.github.io/ImagicalMine/service-download/ImagicalMine.phar)__
+ __[The former (and current if he wishes) owner of ImagicalMine has been kind enough to make us a Jenkins server. Please read the description of our portion! Thanks!](https://hub.imagicalmine.net/job/ImagicalMine)__
 <br>
 
 
