@@ -11,7 +11,9 @@
 __[Demo Server](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#demo-server)__ <br>
 __[Installation](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#installation)__ <br>
 __[Resources](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#resources)__ <br>
+__[Windows Powershell Scripts](https://github.com/Inacittve-to-Reactive/ImagicalMine/blob/master/README.md#windows-powershell-scripts)__ <br>
 __[Acknowledgements](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#acknowledgements)__ <br>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -44,6 +46,41 @@ __[Back to QuickLinks](https://github.com/Inactive-to-Reactive/ImagicalMine/blob
 *__[Extra Files- including suggested plugins](https://github.com/Inactive-to-Reactive/IM-Windowsx86-PHP7-extra-files)__ <br>
 __[Back to QuickLinks](https://github.com/Inactive-to-Reactive/ImagicalMine/blob/master/README.md#quick-links-instead-of-scrolling-click-these)__
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+## Windows Powershell Scripts
+
+### Instructions:
+1. Make sure that you are using windows
+2. Open up Powershell ISE
+3. Paste your desired script in to the top box
+4. Edit the script to suit your needs
+5. Test it by pressing the green arrow in the toolbar at the top
+6. If it succeeds, the "last modified" date will have the time that you ran the script
+7. Save the file
+
+### Tip for Greater Success:
+#### Set run times for each script using Task Scheduler
+1. Search for/ Open up Windows Task Scheduler
+2. On the "actions" page, create a new action. This is what it should be set to--> Action: Start a Program --> Program/script: powershell --> Add arguements (Optional): -file "{path to the powershell file that you just created}" --> Start in (Optional): {path to the folder that you put the powershell file in}
+
+### Scripts:
+1. To download the latest stable build using powershell: 
+⋅⋅ *More complicated than you think.
+* ```
+COMING SOON;
+``` <br> 
+2. To stop the server and restart 20 seconds later:
+.. *Not as complicated as the previous script, but still takes a while to figure out
+* ```
+ALSO COMING SOON;
+``` <br>
+3. Backup script
+.. * Definitely the most complicated of the three scripts
+* ```
+COMING SOON;
+``` <br>
+
+All credit goes to @remotevase AKA remote_vase and his father for making these scripts together
 
 ## Acknowledgements
 
