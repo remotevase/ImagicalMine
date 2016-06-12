@@ -97,6 +97,11 @@ abstract class DefaultPermissions
         self::registerPermission(new Permission(self::ROOT . ".command.op.take", "Allows the user to take a players operator status"), $op);
         $op->recalculatePermissibles();
 
+        $setblock = self::registerPermission(new Permission(self::ROOT . ".command.setblock", "Set a block to specific coordinates", Permission::DEFAULT_OP), $commands);
+        self::registerPermission(new Permission(self::ROOT . ".command.setblock.give", "Allows the user to give a player operator status"), $op);
+        self::registerPermission(new Permission(self::ROOT . ".command.op.take", "Allows the user to take a players operator status"), $op);
+        $setblock->recalculatePermissibles();
+
         $save = self::registerPermission(new Permission(self::ROOT . ".command.save", "Allows the user to save the worlds", Permission::DEFAULT_OP), $commands);
         self::registerPermission(new Permission(self::ROOT . ".command.save.enable", "Allows the user to enable automatic saving"), $save);
         self::registerPermission(new Permission(self::ROOT . ".command.save.disable", "Allows the user to disable automatic saving"), $save);
