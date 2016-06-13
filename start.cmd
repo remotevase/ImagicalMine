@@ -18,7 +18,7 @@ if exist ImagicalMine.phar (
 	if exist src\pocketmine\PocketMine.php (
 		set IMAGICALMINE_FILE=src\pocketmine\PocketMine.php
 	) else (
-		echo "error> There was an error in starting ImagicalMine. Check that this is either a file named ImagicalMine.phar or PocketMine-MP.phar or a src folder, or try reinstalling ImagicalMine with instructions at imagicalmine.net."
+		echo "error> There was an error in starting ImagicalMine. Check that there is either a file named ImagicalMine.phar or PocketMine-MP.phar or an src folder, or try reinstalling ImagicalMine with instructions at imagicalmine.net."
 		pause
 		exit 7
 	)
