@@ -28,7 +28,7 @@ if [ "$PHP_BINARY" == "" ]; then
 	elif [ type php 2>/dev/null ]; then
 		PHP_BINARY=$(type -p php)
 	else
-		echo "error> There was an error in starting the PHP binary. Check that you have a bin/php7/bin folder, or try reinstalling the PHP binary with instructions at imagicalmine.net."
+		echo "error> Oops! There was an error executing the binary. Check that you have a bin/php7/bin folder, or try reinstalling the PHP binary with instructions at imagicalmine.net."
 		exit 7
 	fi
 fi
@@ -41,7 +41,7 @@ if [ "$IMAGICALMINE_FILE" == "" ]; then
 	elif [ -f ./src/pocketmine/PocketMine.php ]; then
 		IMAGICALMINE_FILE="./src/pocketmine/PocketMine.php"
 	else
-		echo "error> There was an error in starting ImagicalMine. Check that this is either a file named ImagicalMine.phar or PocketMine-MP.phar or a src folder, or try reinstalling ImagicalMine with instructions at imagicalmine.net."
+		echo "error> There was an error in starting ImagicalMine. Check that there is either a file named ImagicalMine.phar or PocketMine-MP.phar or an src folder, or try reinstalling ImagicalMine with instructions at imagicalmine.net."
 		exit 7
 	fi
 fi
