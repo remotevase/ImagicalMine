@@ -36,8 +36,7 @@ after_success:
 - ls > list.txt
 - echo >> list.txt
 - echo "This is a directory listing of the root directory of the release download website. Copy the file name and paste it in the URL bar after deleting \"list.txt\". You can also alternatively download files using a shell script by downloading the file from http://inactive-to-reactive.github.io/ImagicalMine/service-download/ImagicalMine.phar. The latest phar built is located at $DOWNLOAD_URI" >> list.txt
-- echo "$DOWNLOAD_URI"
-- echo $DOWNLOAD_URI
+- echo "http://inactive-to-reactive.github.io/ImagicalMine/$TRAVIS_JOB_ID.zip"
 - git commit -am "$COMMIT_MESSAGE"
 - git push https://ImagicalBot/$GITHUB_API_KEY@github.com/$PUSH_REPO_OWNER/$PUSH_REPO_NAME $PUSH_REPO_BRANCH &>secret
 
